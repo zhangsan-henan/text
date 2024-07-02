@@ -1,6 +1,6 @@
 {
   "private": true,
-  "author": "“袁军” <“7725945+yuan_jun0595@user.noreply.gitee.com”>",
+  "author": "张三 <“https://gitee.com/dong-xp/umi3-demo.git”>",
   "scripts": {
     "dev": "umi dev",
     "build": "umi build",
